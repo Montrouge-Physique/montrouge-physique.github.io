@@ -1,3 +1,3 @@
-#Leçon de Chimie
+#Leçons de Chimie
 
-- [un fichier pdf](Plan-lecon-chimie_HR.pdf)
+- [LC de Hugo Roussille](plans_lecon_chimie_HR.pdf)
