@@ -1,3 +1,3 @@
 #Leçon de Chimie
 
-- [un fichier pdf](sonchemin.pdf)
+- [un fichier pdf](Plan-lecon-chimie_HR.pdf)
