@@ -37,8 +37,8 @@ ma belle liste:
 |valeur|valeur|
 |0|0|
 
-[Lien vers page](leçon-physique.md)
+[leçon-physique](leçon-physique.md)
 
-[Lien vers page](leçon-chimie.md)
+[leçon-chimie](leçon-chimie.md)
 
-[Lien vers page](montage-physique.md)
+[Montage-physique](montage-physique.md)
