@@ -10,10 +10,11 @@ Plans
 [Buletin de l'Union des physiciens](BUP.md) 
 
 - Sites internets
-<details>
+
   <summary>
     une autre liste
   </summary>
+<details>
     1. site 1
     2. site 2
 </details>
