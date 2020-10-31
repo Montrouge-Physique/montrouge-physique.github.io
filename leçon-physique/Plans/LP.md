@@ -13,7 +13,8 @@ Plans
 <details>
   <summary>
     une autre liste
+     - site d'interet 1
+     - site d'interet 2
   </summary>
-   - site d'interet 1
-   - site d'interet 2
+  
 </details>
