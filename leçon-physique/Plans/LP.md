@@ -4,7 +4,7 @@ Plans
 
 - [Plans LP Julien Froustey](Plans_JFr.pdf) 
 - [Plans LP Hugo Roussille](plans_lecon_physique.pdf)
-- [Plans LP Jules Fillette](LP_JF.pdf.pdf)
+- [Plans LP Jules Fillette](LP_JF.pdf)
 
 <h2> Ressources </h2>
 
