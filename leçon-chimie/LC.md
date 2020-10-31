@@ -3,7 +3,7 @@
 
 - [LC de Hugo Roussille](plans_lecon_chimie_HR.pdf)
 - [LC de Jules Fillette](LC-JF.pdf)
-- [LC de Julien Froustey](PLan_JFr.pdf)
+- [LC de Julien Froustey](Plans_JFr.pdf)
 
 
 
