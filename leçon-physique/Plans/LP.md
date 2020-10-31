@@ -7,7 +7,8 @@ Plans
 
 <h2> Ressources </h2>
 
-[Buletin de l'Union des physiciens](BUP.md) 
+[Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
+[Quelques buletins de l'Union des physiciens](BUP.md) 
 
 <h3> Sites internets </h3>
 
