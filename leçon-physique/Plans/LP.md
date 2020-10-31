@@ -7,7 +7,7 @@ Plans
 
 # Ressources
 
-[Buletin de l'Union des physiciens](BUP/BUP.md) 
+[Buletin de l'Union des physiciens](BUP.md) 
 
 - Sites internets
 <details>
