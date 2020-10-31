@@ -14,6 +14,6 @@ Plans
   <summary>
     une autre liste
   </summary>
-  1. site 1
-  2. site 2
+    1. site 1
+    2. site 2
 </details>
