@@ -39,6 +39,6 @@ ma belle liste:
 
 [leçon-physique](leçon-physique/Plans/LP.md)
 
-[leçon-chimie](leçon-chimie.md)
+[leçon-chimie](leçon-chimie/LC.md)
 
-[Montage-physique](montage-physique.md)
+[Montage-physique](montage-physique/montage.md)
