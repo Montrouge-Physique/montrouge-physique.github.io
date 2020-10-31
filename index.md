@@ -37,7 +37,7 @@ ma belle liste:
 |valeur|valeur|
 |0|0|
 
-[leçon-physique](/leçon-physique/Plans/LP.md)
+[leçon-physique](leçon-physique/Plans/LP.md)
 
 [leçon-chimie](leçon-chimie.md)
 
