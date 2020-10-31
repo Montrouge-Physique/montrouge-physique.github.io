@@ -9,7 +9,7 @@ Plans
 
 [Buletin de l'Union des physiciens](/leçon-physique/ressources-internet/BUP/BUP.md) 
 
-Sites internets
+- Sites internets
 <details>
   <summary>
     une autre liste
