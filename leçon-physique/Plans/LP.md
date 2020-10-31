@@ -13,6 +13,8 @@ Plans
 <details>
   <summary>
     une autre liste
+    - test
+    - test
   </summary>
 
 
