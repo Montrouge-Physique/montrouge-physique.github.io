@@ -9,7 +9,7 @@ Plans
 
 [Buletin de l'Union des physiciens](BUP.md) 
 
-<h3> Sites internets <h3>
+<h3> Sites internets </h3>
 
 
 <details>
