@@ -1,7 +1,7 @@
 # Buletin de l'union des physiciens
 
 - [A propos de la précession des équinoxes](/BUP/A-propos-de-la-précession-des-équinoxes.pdf)
-- [Actualisation des connaissances sur les moteurs](/BUP/Actualisation des connaissances sur les moteurs )
+- [Actualisation des connaissances sur les moteurs](/BUP/Actualisation des connaissances sur les moteurs.pdf)
 - [Circuits électriques utilisant certains éléments constitués par des câbles coaxiaux](/BUP/Circuits électriques utilisant certains éléments constitués par des câbles coaxiaux.pdf)
 - [Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique](/BUP/Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique.pdf)
 - [Dynamique de l'atmosphère terrestre](/BUP/Dynamique de l'atmosphère terrestre.pdf)
