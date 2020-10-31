@@ -1,6 +1,6 @@
 # Buletin de l'union des physiciens
 
-- [A propos de la précession des équinoxes](main/leçon-physique/ressources-internet/BUP/A-propos-de-la-précession-des-équinoxes.pdf)
+- [A propos de la précession des équinoxes](leçon-physique/ressources-internet/BUP/A-propos-de-la-précession-des-équinoxes.pdf)
 - [Actualisation des connaissances sur les moteurs](Actualisation des connaissances sur les moteurs )
 - [Circuits électriques utilisant certains éléments constitués par des câbles coaxiaux](Circuits électriques utilisant certains éléments constitués par des câbles coaxiaux.pdf)
 - [Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique](Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique.pdf)
