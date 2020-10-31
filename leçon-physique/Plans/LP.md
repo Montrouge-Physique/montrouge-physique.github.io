@@ -7,6 +7,6 @@ Plans
 
 BUP
 
-[Bultin de l'Union des physiciens](/leçon-physique/ressources-internet/BUP/BUP.md) 
+[Buletin de l'Union des physiciens](/leçon-physique/ressources-internet/BUP/BUP.md) 
 
 
