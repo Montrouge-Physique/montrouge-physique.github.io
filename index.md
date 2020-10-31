@@ -2,8 +2,8 @@
 Ressources de la preparation à l'agregation de physique de Montrouge
 
 
-[Leçon-physique](leçon-physique/Plans/LP.md)
+[Leçon de physique](leçon-physique/Plans/LP.md)
 
-[Leçon-chimie](leçon-chimie/LC.md)
+[Leçon de chimie](leçon-chimie/LC.md)
 
-[Montage-physique](montage-physique/montage.md)
+[Montage de physique](montage-physique/montage.md)
