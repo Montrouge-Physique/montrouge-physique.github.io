@@ -8,7 +8,7 @@
 
 <h2> Sites internets </h2>
 
-[PTable](https://ptable.com/#Propri%C3%A9t%C3%A9s)
-[Culture chimie](http://culturesciences.chimie.ens.fr/)
-[Elementarium](https://www.lelementarium.fr/)
-[Vademecum laicité](Vademecum_Laicite.pdf)
+[PTable](https://ptable.com/#Propri%C3%A9t%C3%A9s) <br>
+[Culture chimie](http://culturesciences.chimie.ens.fr/) <br>
+[Elementarium](https://www.lelementarium.fr/) <br>
+[Vademecum laicité](Vademecum_Laicite.pdf) <br>
