@@ -11,10 +11,13 @@ Plans
 
 - Sites internets
 
+
+<details>
   <summary>
     une autre liste
   </summary>
-<details>
     1. site 1
-    2. site 2
+</details>
+<details>
+   1. site 1
 </details>
