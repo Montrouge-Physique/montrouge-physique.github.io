@@ -10,6 +10,8 @@ Plans
 
 <h3> Sites internets </h3>
 
+[Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
+
 <details>
   <summary>
     une autre liste
