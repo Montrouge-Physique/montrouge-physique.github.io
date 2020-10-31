@@ -6,7 +6,7 @@
 - [Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique](Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique.pdf)
 - [Dynamique de l'atmosphère terrestre](Dynamique de l'atmosphère terrestre.pdf)
 - [Equilibre NO2 N2O4](Equilibre NO2 N2O4.pdf)
-- [Introduction de h par Planck](Introduction de h par Planck.pdf)
+- [Introduction de h par Planck](leçon-physique/ressources-internet/BUP/Introduction-de-h-par-Planck.pdf)
 - [La cohérence de la lumière et l’imagerie des tissusdu corps humain](La cohérence de la lumière et l’imagerie des tissusdu corps humain.pdf)
 - [La technique de contraste de phase](La technique de contraste de phase.pdf)
 - [Le réfrigérateur](Le réfrigérateur.pdf)
