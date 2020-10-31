@@ -8,9 +8,9 @@ Plans
 
 <h2> Ressources </h2>
 
-[Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
-[Quelques buletins de l'Union des physiciens](BUP.md)
-[Agrégat LP](Agregat.pdf)
+- [Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
+- [Quelques buletins de l'Union des physiciens](BUP.md)
+- [Agrégat LP](Agregat.pdf)
 
 <h3> Sites internets </h3>
 
