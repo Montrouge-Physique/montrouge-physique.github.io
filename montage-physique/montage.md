@@ -4,7 +4,7 @@ Plans
 
 - [Plans MP Hugo Roussille](plans_montage_physique_HR.pdf) 
 - [Plans MP Jules Fillette](Montage-JF.pdf) 
-
+- [Plans MP Julien Froustey](Plan_JFr.pdf)
 
 <h2> Ressources </h2>
 
