@@ -1,10 +1,10 @@
 # Buletin de l'union des physiciens
 
-- [A propos de la précession des équinoxes](leçon-physique/ressources-internet/BUP/A-propos-de-la-précession-des-équinoxes.pdf)
+- [A propos de la précession des équinoxes](BUP/leçon-physique/ressources-internet/BUP/A-propos-de-la-précession-des-équinoxes.pdf)
 - [Actualisation des connaissances sur les moteurs](Actualisation des connaissances sur les moteurs )
 - [Circuits électriques utilisant certains éléments constitués par des câbles coaxiaux](Circuits électriques utilisant certains éléments constitués par des câbles coaxiaux.pdf)
 - [Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique](Comparaison entre le mouvement de Képler et le mouvement elliptique harmonique.pdf)
-- [Dynamique de l'atmosphère terrestre](Dynamique de l'atmosphère terrestre.pdf)
+- [Dynamique de l'atmosphère terrestre](BUP/Dynamique de l'atmosphère terrestre.pdf)
 - [Equilibre NO2 N2O4](Equilibre NO2 N2O4.pdf)
 - [Introduction de h par Planck](Introduction de h par Planck.pdf)
 - [La cohérence de la lumière et l’imagerie des tissusdu corps humain](La cohérence de la lumière et l’imagerie des tissusdu corps humain.pdf)
