@@ -13,3 +13,5 @@
 [Culture chimie](http://culturesciences.chimie.ens.fr/) <br>
 [Elementarium](https://www.lelementarium.fr/) <br>
 [Vademecum laicité](Vademecum_Laicite.pdf) <br>
+[Orbimol (orbitales moleculaires)](https://www.lct.jussieu.fr/pagesperso/orbimol/fr/index-fr.shtml)
+
